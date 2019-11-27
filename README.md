@@ -1,9 +1,9 @@
 # CodeLock
 Arduino project making a code locking system 
 # Files
-Testing_keypad.ino
+Testing_keypad.ino - this is the main code for the code lock
 
-Final Project CPSC42.docx
+Final Project CPSC42.docx - This is final report of my project
 # Description
 This project is show case the basic of a safe electric security system. With all the basic function. Screen display for instruction and show the user his/her input. With the function to reset your password or just unlock the safe. The default password is [1234]. 
 
